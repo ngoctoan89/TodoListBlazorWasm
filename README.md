@@ -1,7 +1,7 @@
 # Todo List Blazor WebAssembly
 
 This source code for TEDU Blazor for Beginners course. We will make a Todo list project using Blazor WebAssembly connecto to Backend API via HttpClient. 
-If you have any question or contribution, you can create PR or issue for us. This video guide how to make project on Youtube: https://www.youtube.com/playlist?list=PLRhlTlpDUWszBRs388Koxf6sMBSuOs8cd
+If you have any question or contribution, you can create PR or issue for us.
 
 ## Techstack
 - ASP.NET 5
